@@ -28,3 +28,14 @@
     width: 200px;
     border-radius: 15px !important;
 }
+
+.img-main {
+    /* background-image: url(https://abs.twimg.com/sticky/illustrations/lohp_1302x955.png); */
+    background-image: url(https://www.itdoe.org/agora/src/lib/img/logo.svg);
+    background-repeat: no-repeat;
+    margin-top: 8%;
+}
+
+.container {
+    margin-top: 12.5%;
+}
