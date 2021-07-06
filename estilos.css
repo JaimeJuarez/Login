@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.login {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.mainlogin {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.btn-submit {
+    text-align: center !important;
+}
+
+.btn-primary {
+    background-color: #009dff !important;
+    border-color: #009dff !important;
+}
+
+.submit {
+    width: 200px;
+    border-radius: 15px !important;
+}
